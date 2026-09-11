@@ -1,0 +1,61 @@
+{
+    "block A": {
+        "rooms": {
+            "A101": {
+                "capacity": 4,
+                "occupants": [
+                    {
+                        "name": "Grace Peter",
+                        "age": 23,
+                        "registration_number": "VU-NH-343",
+                        "fees": 800000,
+                        "payments": [
+                            400000.0,
+                            200000.0
+                        ]
+                    }
+                ]
+            },
+            "A102": {
+                "capacity": 4,
+                "occupants": []
+            },
+            "A103": {
+                "capacity": 4,
+                "occupants": []
+            }
+        }
+    },
+    "block B": {
+        "rooms": {
+            "B101": {
+                "capacity": 4,
+                "occupants": []
+            },
+            "B102": {
+                "capacity": 4,
+                "occupants": []
+            },
+            "B103": {
+                "capacity": 4,
+                "occupants": []
+            }
+        }
+    },
+    "block C": {
+        "rooms": {
+            "C101": {
+                "capacity": 4,
+                "occupants": []
+            },
+            "C102": {
+                "capacity": 4,
+                "occupants": []
+            },
+            "C103": {
+                "capacity": 4,
+                "occupants": []
+            }
+        }
+    }
+}
